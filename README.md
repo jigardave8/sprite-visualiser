@@ -1,7 +1,6 @@
 
 # sprite-visualiser Demo
 
-![Sprite Visualizer Demo Screenshot](screenshot.png) 
 
 ## Overview
 
@@ -23,7 +22,7 @@ This project is a Sprite Visualizer Demo developed using SwiftUI. It showcases v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sprite-visualizer-demo.git
+   git clone https://github.com/jigardave8/sprite-visualiser.git
    ```
 2. Open the project in Xcode:
    ```bash
@@ -58,7 +57,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to jdavenz8@gmail.com
 ```
 
-Feel free to adjust the content, especially the features and any specific instructions related to your demo!
