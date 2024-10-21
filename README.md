@@ -1,8 +1,6 @@
 
 # sprite-visualiser Demo
 
-
-
 ## Overview
 
 This project is a Sprite Visualizer Demo developed using SwiftUI. It showcases various sprite animations and visual effects, providing an interactive experience for users to explore dynamic graphics.
